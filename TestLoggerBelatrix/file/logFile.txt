@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-01-30T13:27:38</date>
+  <millis>1580408858632</millis>
+  <sequence>4</sequence>
+  <logger>LoggerBelatrix</logger>
+  <level>WARNING</level>
+  <class>com.belatrix.test.java.Logger.FileLogger</class>
+  <method>addMessage</method>
+  <thread>1</thread>
+  <message>Test Multiple - Message Info</message>
+</record>
+<record>
+  <date>2020-01-30T13:27:38</date>
+  <millis>1580408858634</millis>
+  <sequence>5</sequence>
+  <logger>LoggerBelatrix</logger>
+  <level>WARNING</level>
+  <class>com.belatrix.test.java.Logger.FileLogger</class>
+  <method>addWarning</method>
+  <thread>1</thread>
+  <message>Test Multiple - Message Warning</message>
+</record>
+<record>
+  <date>2020-01-30T13:27:38</date>
+  <millis>1580408858720</millis>
+  <sequence>6</sequence>
+  <logger>LoggerBelatrix</logger>
+  <level>WARNING</level>
+  <class>com.belatrix.test.java.Logger.FileLogger</class>
+  <method>addMessage</method>
+  <thread>1</thread>
+  <message>Test - Info Message </message>
+</record>
+</log>
